@@ -1,0 +1,60 @@
+.navbar-light{
+	background-color: white;
+}
+.banner{
+	background-image: url('https://res.cloudinary.com/dsd5xgbdi/image/upload/c_scale,w_908/v1570001752/card-image_mwwh2v.jpg');
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.text-margin{
+	margin: 40px 0;
+}
+.container-text{
+	color: white;
+}
+.height-100vh{
+	height: 100vh;
+	
+}
+.card-index img{
+	width: 50%;
+	height:50%;
+}
+.height-70vh{
+	height:70vh;
+}
+
+.center-everything{
+	display:flex;
+	flex-direction: column;
+	justify-content: center;
+}
+.height-50vh{
+	height: 50vh;
+}
+.footer{
+	height: 40vh;
+	background-color: lightgrey;
+	display:flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	font-size:20px;
+	
+}
+.footer a{
+	text-decoration: none;
+	color:black;
+}
+.card-trip{
+	margin: 35px;
+	box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+	border-radius: 5px;
+}
+.padding-top-40px{
+	padding-top: 40px;
+}
+.height-20vh{
+	height: 40vh;
+}
